@@ -28,6 +28,8 @@ npm start
 * Github: [@ReneGustavo](https://github.com/ReneGustavo)
 * LinkedIn: [@renegustavoceg](https://linkedin.com/in/renegustavoceg)
 
+Adaptado por **Dilnei Soethe Spancerski**
+
 ## Show your support
 
 Give a ⭐️ if this project helped you!

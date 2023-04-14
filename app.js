@@ -7,7 +7,27 @@ const ConsultaImoveis = new (require('./ConsultaImoveis'))();
         ["AP", [],],
         ["BA", [],],
         ["AM", [],],
-        ["AL", [],]
+        ["AL", [],],
+        ["CE", [],],
+        ["DF", [],],
+        ["ES", [],],
+        ["GO", [],],
+        ["MA", [],],
+        ["MG", [],],
+        ["MT", [],],
+        ["PA", [],],
+        ["PB", [],],
+        ["PE", [],],
+        ["PI", [],],
+        ["PR", [],],
+        ["RJ", [],],
+        ["RN", [],],
+        ["RO", [],],
+        ["RR", [],],
+        ["RS", [],],
+        ["SE", [],],
+        ["SP", [],],
+        ["TO", [],],
     ])
     console.log("IMOVEIS")
     console.log(JSON.stringify(imoveis))
